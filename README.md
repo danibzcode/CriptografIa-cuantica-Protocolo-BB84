@@ -47,7 +47,3 @@ Para replicar este experimento, es necesario instalar:
 ```bash
 pip install qiskit qiskit-ibm-runtime matplotlib pylatexenc
 
-
-Para replicar este experimento, es necesario instalar:
-```bash
-pip install qiskit qiskit-ibm-runtime matplotlib pylatexenc
